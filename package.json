@@ -2,8 +2,15 @@
   "name": "lemons",
   "version": "1.0.0",
   "description": "API for a lemonade stand app",
-  "main": "index.js",
+  "main": "src/app.js",
+  "type": "module",
   "repository": "git@github.com:larsondanes/lemons.git",
   "author": "Larson Danes <lgdanes@live.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
