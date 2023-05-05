@@ -1,0 +1,9 @@
+{
+  "name": "lemons",
+  "version": "1.0.0",
+  "description": "API for a lemonade stand app",
+  "main": "index.js",
+  "repository": "git@github.com:larsondanes/lemons.git",
+  "author": "Larson Danes <lgdanes@live.com>",
+  "license": "MIT"
+}
